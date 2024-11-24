@@ -179,6 +179,7 @@ transition: 0.5s;
     border: 0;
     border-radius: 14px;
     font-size:18px;
+    color: #000;
     text-transform: capitalize;
     cursor: pointer;
 }
@@ -963,7 +964,7 @@ color: black;
         height: auto;
         text-align: center;
         border: 3px solid #9B7EBD;
-        border-radius: 10px;
+        border-radius: 11px;
               
     }
 
@@ -1036,6 +1037,7 @@ color: black;
     .div1-news img{
         border-radius:11px;
         margin-top: 19px;
+       
     }
 
     .all-icon{
