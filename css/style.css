@@ -264,7 +264,7 @@ border-radius: 11px;
 }
 
 .div1-welcome:hover .a1-welcome{
-    color:#0B2F9F;
+    color:#3B1E54;
 }
 
 .div1-welcome:hover .icon-welcome{
@@ -1046,6 +1046,9 @@ color: black;
     
     .h3-news{
         color: #4F1787;
+    }
+    .read-more{
+        color: #3B1E54;
     }
     /* finsh sec 10 */
 
